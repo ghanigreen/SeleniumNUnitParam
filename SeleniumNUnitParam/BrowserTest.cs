@@ -11,7 +11,7 @@ namespace SeleniumNUnitParam
     public class BrowserTest : Hooks
     {
 
-
+/*
         [Test]
         public void GoogleTest()
         {
@@ -23,6 +23,7 @@ namespace SeleniumNUnitParam
                                             "The text selenium doest not exist");
 
         }
+        */
 
         [Test]
         public void ExecuteAutomationTest()
